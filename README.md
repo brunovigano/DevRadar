@@ -24,8 +24,8 @@ yarn dev
 
 ### How to run frontend
 
-Access the [web module](https://github.com/brunovigano/DevRadarWeb)
+Access the [web module](https://github.com/brunovigano/DevRadarWeb).
 
 ### How to run mobile
 
-Access the [mobile module](https://github.com/brunovigano/DevRadarMobile)
+Access the [mobile module](https://github.com/brunovigano/DevRadarMobile).
