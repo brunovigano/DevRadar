@@ -3,7 +3,7 @@
 Complete application using backend in node.js, frontend in ReactJS and mobile module in ReactNative. Personal study project designed to allow users to search for developers near their location who master informed technologies.
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.png?raw=true" width="100%">
 </p>
 
 ### How to run backend
